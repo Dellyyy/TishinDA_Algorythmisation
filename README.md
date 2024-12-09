@@ -1,6 +1,6 @@
 ###### ~~*__Здесь могла бы быть ваша реклама__*~~
-:white_check_mark:[Не нажимай! Убьёт!](https://docs.google.com/document/d/1N_XHAR2mii0ZZNFarmJDH_4vkSkZtWKTVsABhIHoSgw/edit?usp=drive_link) :white_check_mark:
-:white_check_mark:[УУУЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭЭ](https://drive.google.com/drive/folders/1wNBwOZB253NJ3WOCAaD8ZAmIclf8cC4C?usp=drive_link) :white_check_mark:
+:white_check_mark:[Конспекты](https://docs.google.com/document/d/1N_XHAR2mii0ZZNFarmJDH_4vkSkZtWKTVsABhIHoSgw/edit?usp=drive_link) :white_check_mark:
+:white_check_mark:[Все файлы по Алгоритмизации](https://drive.google.com/drive/folders/1wNBwOZB253NJ3WOCAaD8ZAmIclf8cC4C?usp=drive_link) :white_check_mark:
 
 
 | Здесь | могла бы быть | ваша реклама |
